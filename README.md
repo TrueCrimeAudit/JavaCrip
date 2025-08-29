@@ -1,6 +1,8 @@
 <h1 align="center" style="font-size: 52px; font-weight: bold; font-family: sans-serif;">
   Java
+  </h1>
   <span style="font-size: 180px; vertical-align: middle; margin: 0 -5px;">🤏🏿</span>
+  <h1 align="center" style="font-size: 52px; font-weight: bold; font-family: sans-serif;">
   rip
 </h1>
 
