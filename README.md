@@ -1,9 +1,6 @@
 <h1 align="center" style="font-size: 52px; font-weight: bold; font-family: sans-serif;">
-  Java 
-  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f90f-1f3ff.svg" 
-       alt="Javacrip Logo Hand" 
-       width="80" 
-       style="vertical-align: middle; margin: 0 5px;">
+  Java
+  <span style="font-size: 80px; vertical-align: middle; margin: 0 -5px;">🤏🏿</span>
   rip
 </h1>
 
