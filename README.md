@@ -4,7 +4,7 @@ JavaCrip is a dynamic, high-level, compiled language that is fully compliant wit
 ## Stay Blue: The Official Javacrip Color Palette
 
 This is the official color set for Javacrip development. Use these when you need to represent your code's loyalty. Stay laced.
-
+🤏🏿
 <table>
   <thead>
     <tr>
