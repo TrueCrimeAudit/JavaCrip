@@ -1,8 +1,6 @@
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <span style="font-size: 52px; font-weight: bold; font-family: sans-serif;">Java</span>
   <span style="font-size: 180px">🤏🏾</span>
   <span style="font-size: 52px; font-weight: bold; font-family: sans-serif;">rip</span>
-</div>
 
 JavaCrip is a dynamic, high-level, compiled language that is fully compliant with the streets. 
 
