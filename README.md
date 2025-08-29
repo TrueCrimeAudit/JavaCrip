@@ -1,9 +1,9 @@
 <h1 align="center" style="font-size: 52px; font-weight: bold; font-family: sans-serif;">
   Java 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Sign_language_C.svg" 
-       alt="C Hand Sign" 
-       width="70" 
-       style="vertical-align: middle; margin: 0 5px; filter: invert(1);">
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f90f-1f3ff.svg" 
+       alt="Javacrip Logo Hand" 
+       width="80" 
+       style="vertical-align: middle; margin: 0 5px;">
   rip
 </h1>
 
