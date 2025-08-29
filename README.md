@@ -1,5 +1,7 @@
-<h1 align="center" style="font-size: 52px; font-weight: bold; font-family: sans-serif;">
-  Java<span style="font-size: 1.1em; vertical-align: -0.1em;">🤏🏿</span>rip
+<h1 align="center" style="font-size: 52px; font-weight: bold; font-family: sans-serif; line-height: 100px;">
+  <span>Java</span>
+  <span style="font-size: 120px; position: relative; top: 25px; margin: 0 -15px;">🤏🏿</span>
+  <span>rip</span>
 </h1>
 
 JavaCrip is a dynamic, high-level, compiled language that is fully compliant with the streets. 
