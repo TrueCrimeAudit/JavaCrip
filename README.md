@@ -1,4 +1,7 @@
-# JavaCrip
+<h1 align="center" style="font-size: 52px; font-weight: bold; font-family: sans-serif;">
+  Java<span style="font-size: 1.1em; vertical-align: -0.1em;">🤏🏿</span>rip
+</h1>
+
 JavaCrip is a dynamic, high-level, compiled language that is fully compliant with the streets. 
 
 ## Stay Blue: The Official Javacrip Color Palette
