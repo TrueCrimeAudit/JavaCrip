@@ -1,4 +1,8 @@
-# $${\Huge\textsf{{\color{white}Java}{\color{blue}Crip}}}$$
+$$
+\scalebox{1.7}{{\Huge{\color{white}\textsf{Java}}{\color{blue}\mathfrak{Crip}}}}
+\\[-16pt]
+{\Large\color{blue}🟌}\space{\large\color{white}\textsf{A tagline for the modern dev}}\space{\Large\color{blue}🟌}
+$$
 
 JavaCrip is a dynamic, high-level, compiled language, that is fully capable in the streets. 
 
