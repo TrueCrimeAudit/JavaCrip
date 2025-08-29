@@ -1,19 +1,8 @@
-
-  <table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">
-    <tbody>
-      <tr>
-        <td style="padding: 0 15px; border: none; vertical-align: middle;">
-          <span style="font-size: 52px; font-weight: bold; font-family: sans-serif;">Java</span>
-        </td>
-        <td style="padding: 0; border: none; vertical-align: middle;">
-          <span style="font-size: 120px; line-height: 1;">🤏🏿</span>
-        </td>
-        <td style="padding: 0 0px; border: none; vertical-align: middle;">
-          <span style="font-size: 52px; font-weight: bold; font-family: sans-serif;">rip</span>
-        </td>
-      </tr>
-    </tbody>
-  </table>
+<p align="center">
+  <span style="font-size: 52px; font-weight: bold; font-family: sans-serif;">Java</span>
+  <span style="font-size: 180px; vertical-align: middle; margin: 0 -5px;">🤏🏿</span>
+  <span style="font-size: 52px; font-weight: bold; font-family: sans-serif;">rip</span>
+</p>
 
 JavaCrip is a dynamic, high-level, compiled language that is fully compliant with the streets. 
 
