@@ -1,4 +1,4 @@
-<div align="center">
+
   <table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">
     <tbody>
       <tr>
@@ -14,7 +14,6 @@
       </tr>
     </tbody>
   </table>
-</div>
 
 JavaCrip is a dynamic, high-level, compiled language that is fully compliant with the streets. 
 
