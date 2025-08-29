@@ -1,6 +1,6 @@
 <h1 align="center" style="font-size: 52px; font-weight: bold; font-family: sans-serif;">
   Java 
-  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/325/pinching-hand_dark-skin-tone_1f90f-1f3ff_1f3ff.png" 
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f90f-1f3ff.svg" 
        alt="Javacrip Logo Hand" 
        width="80" 
        style="vertical-align: middle; margin: 0 5px;">
