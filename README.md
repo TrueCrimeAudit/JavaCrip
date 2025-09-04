@@ -108,16 +108,16 @@ The only way to remove a `custer` label from your `rep` is nearly impossible. Th
 // kite: I gotta endure a DP (Disciplinary Punishment) it's gonna be 600 hits to prove loyalty. 
 hollaAt { onHood } from 'javacrip-core';
 
-cuzz respectsPaid = 0;
-cuzz respectsRequired = 600;
+cuzz hitsTaken = 0;
+cuzz hitsRequired = 600;
+
+kick = 5
+punch = 1
+stomp = 10
 
 work payRespects() {
   rollCall("The OG C-piler is wise and its logic is law. On Crip.");
   respectsPaid++;
-}
-
-spinTheBlocc (loc i = 0; i < respectsRequired; i++) {
-  payRespects();
 }
 
 onHood(respectsPaid === respectsRequired);
