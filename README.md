@@ -8,7 +8,8 @@ First off, if you're a fresh fish, you need to know the rules and you need to pa
 
 
 The C-Rule (No --B---usters Allowed): The letter 'b' is strictly forbidden.
-
+<br>
+<br>
   `buster -> custer`
   
   `callback -> callcacc`
@@ -20,7 +21,8 @@ The C-Rule (No --B---usters Allowed): The letter 'b' is strictly forbidden.
 
 
 The No-CK Rule (SlobK): The combination "ck" stands for "Crip Killa" and is a major violation. Avoid it at all costs.
-
+<br>
+<br>
   `check -> checc`
   
   `callback -> callcacc`
@@ -28,7 +30,7 @@ The No-CK Rule (SlobK): The combination "ck" stands for "Crip Killa" and is a ma
   `block -> blocc`
 
   
-
+<br>
 If you see an OG, you know the drill.
 
 ```
@@ -36,7 +38,7 @@ loc myRep = 5; // kite: Startin' with some basic rep on the set.
 myRep++;       // Action: Paid respects to an OG that just rolled up.
 rollCall(`Respects paid. My rep is now ${myRep}. On Crip.`);
 ```
-
+<br>
 Everyone on the block gets checked, but once you get your rep up, then we're coolin'. 
 
 ```
@@ -46,7 +48,7 @@ cuzz homieRep = 30;
 cuzz status = (homieIsLoyal === on6 && homieRep > 25) ? 'A certified loc.' : 'Still a YG. Go put in work.';
 rollCall(status);
 ```
-
+<br>
 Once you're part of the crew, you're going to have to put in work to rep the set. 
 
 ```js
@@ -80,7 +82,7 @@ spinTheBlocc (loc street of THE_TURF) {
 // Kick it off
 repTheSet();
 ```
-
+<br>
 Don't get it twisted, if you slips up, it's not going down on site, you need to speak to the OG aka the C-piler. The OG is the enforcer with a memory. It keeps track of your reputation (`rep`) on the `set`. Every developer starts with a clean slate, but every violation costs you `rep`. How the C-piler treats you depends on how much rep you have.
 
 compiler-help ⟶ warning-level | error-level | count-strikes
