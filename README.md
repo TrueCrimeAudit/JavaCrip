@@ -17,7 +17,8 @@ The C-Rule (No --B---usters Allowed): The letter 'b' is strictly forbidden.
   `bundle -> cundle`
   
   `binary -> cinary`
-  
+
+&nbsp;
 &nbsp;
 &nbsp;
 The No-CK Rule (SlobK): The combination "ck" stands for "Crip Killa" and is a major violation. Avoid it at all costs.
@@ -28,7 +29,6 @@ The No-CK Rule (SlobK): The combination "ck" stands for "Crip Killa" and is a ma
   
   `block -> blocc`
 
-  
 &nbsp;
 &nbsp;
 If you see an OG, you know the drill.
