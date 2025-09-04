@@ -108,18 +108,26 @@ The only way to remove a `custer` label from your `rep` is nearly impossible. Th
 // kite: I gotta endure a DP (Disciplinary Punishment) it's gonna be 600 hits to prove loyalty. 
 hollaAt { onHood } from 'javacrip-core';
 
-cuzz hitsTaken = 0;
+let hitsTaken = 0;
 cuzz hitsRequired = 600;
 
-kick = 5
-punch = 1
-stomp = 10
+cuzz HIT_VALUES = {
+  kick: 5,
+  punch: 1,
+  stomp: 10,
+};
 
-work payRespects() {
-  rollCall("The OG C-piler is wise and its logic is law. On Crip.");
-  respectsPaid++;
+// kite: time to get this custers heartcheck kicked off 
+function addHit(type, times = 1) {
+  const value = HIT_VALUES[type] ?? 0;
+  for (let i = 0; i < times; i++) {
+    hitsTaken += value;
+    if (hitsTaken >= hitsRequired) {
+      payRespects();
+      break;
+    }
+  }
 }
-
 onHood(respectsPaid === respectsRequired);
 rollCall(`My respects have been paid. My rep should be clean.`);
 ```
