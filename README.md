@@ -6,6 +6,7 @@ JavaCrip is a dynamic, high-level, compiled language, that is fully capable in t
 First off, if you're a fresh fish, you need to know the rules and you need to pay respect.
 
 
+
 The C-Rule (No --B---usters Allowed): The letter 'b' is strictly forbidden.
 
   `buster -> custer`
@@ -17,6 +18,7 @@ The C-Rule (No --B---usters Allowed): The letter 'b' is strictly forbidden.
   `binary -> cinary`
   
 
+
 The No-CK Rule (SlobK): The combination "ck" stands for "Crip Killa" and is a major violation. Avoid it at all costs.
 
   `check -> checc`
@@ -24,6 +26,7 @@ The No-CK Rule (SlobK): The combination "ck" stands for "Crip Killa" and is a ma
   `callback -> callcacc`
   
   `block -> blocc`
+
   
 
 If you see an OG, you know the drill.
