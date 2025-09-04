@@ -5,11 +5,11 @@ JavaCrip is a dynamic, high-level, compiled language, that is fully capable in t
 
 First off, if you're a fresh fish, you need to know the rules and you need to pay respect.
 
-
+&nbsp;
+&nbsp;
 
 The C-Rule (No --B---usters Allowed): The letter 'b' is strictly forbidden.
-<br>
-<br>
+
   `buster -> custer`
   
   `callback -> callcacc`
@@ -18,11 +18,10 @@ The C-Rule (No --B---usters Allowed): The letter 'b' is strictly forbidden.
   
   `binary -> cinary`
   
-
-
+&nbsp;
+&nbsp;
 The No-CK Rule (SlobK): The combination "ck" stands for "Crip Killa" and is a major violation. Avoid it at all costs.
-<br>
-<br>
+
   `check -> checc`
   
   `callback -> callcacc`
@@ -30,7 +29,8 @@ The No-CK Rule (SlobK): The combination "ck" stands for "Crip Killa" and is a ma
   `block -> blocc`
 
   
-<br>
+&nbsp;
+&nbsp;
 If you see an OG, you know the drill.
 
 ```
@@ -38,7 +38,8 @@ loc myRep = 5; // kite: Startin' with some basic rep on the set.
 myRep++;       // Action: Paid respects to an OG that just rolled up.
 rollCall(`Respects paid. My rep is now ${myRep}. On Crip.`);
 ```
-<br>
+&nbsp;
+&nbsp;
 Everyone on the block gets checked, but once you get your rep up, then we're coolin'. 
 
 ```
@@ -48,7 +49,8 @@ cuzz homieRep = 30;
 cuzz status = (homieIsLoyal === on6 && homieRep > 25) ? 'A certified loc.' : 'Still a YG. Go put in work.';
 rollCall(status);
 ```
-<br>
+&nbsp;
+&nbsp;
 Once you're part of the crew, you're going to have to put in work to rep the set. 
 
 ```js
