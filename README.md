@@ -1,5 +1,6 @@
-$${\Huge{\color{white}\textrm{Java}}{\color{lightblue}\textsf{Crip}}}$$
-$${\Large\color{lightblue}🟌}\space{\large\color{white}\textsf{No custers allowed - on hood}}\space{\Large\color{lightblue}🟌}$$
+$$\huge{\mathsf{\color{white}Java\color{lightblue}Crip}}$$
+
+$${\color{lightblue}\text{🔵 }}\color{white}\text{No custers allowed - on hood }{\color{lightblue}\text{🔵}}$$
 
 JavaCrip is a dynamic, high-level, compiled language, that is fully capable in the streets.
 
